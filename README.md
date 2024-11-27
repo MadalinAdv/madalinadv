@@ -19,11 +19,9 @@
 ---
 
 ## 🛠️ Tools & Technologies
-
-# Tools & Technologies
 A list of what tools and technologies I use
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,html,css,sass,lua,python,react,vue,nextjs,electron,express,nestjs,mysql,mongodb,visualstudio,vscode,git,github,linux,raspberrypi,nginx,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,html,css,sass,laravel,python,react,vue,nextjs,electron,express,nestjs,mysql,mongodb,visualstudio,vscode,git,github,linux,raspberrypi,nginx,docker)](https://skillicons.dev)
 ---
 
 ## 📈 GitHub Stats
