@@ -10,16 +10,15 @@
 ---
 
 ## 🚀 About Me
-- 💻 I specialize in both frontend and backend development.
-- 🌱 Currently exploring advanced concepts in Next.js and Laravel.
-- 💬 Ask me about web development, system architecture, or optimization tips.
-- 🌐 Portfolio: [madalindvp.ro](https://madalindvp.ro)
-- 📫 How to reach me: [madalindvp@gmail.com](mailto:madalindvp@gmail.com)
+- 💻 **Specialization**: Full-stack development, creating efficient and scalable web applications.
+- 🌱 **Learning**: Exploring advanced concepts in **Next.js**, **Laravel**, and modern web technologies.
+- 💬 **Ask me about**: Web development, system architecture, or performance optimization.
+- 🌐 **Portfolio**: [madalindvp.ro](https://madalindvp.ro)
+- 📫 **Contact me**: [madalindvp@gmail.com](mailto:madalindvp@gmail.com)
 
 ---
 
 ## 🛠️ Tools & Technologies
-A list of what tools and technologies I use:
 
 ### 🖌️ Frontend
 <p align="left">
@@ -34,9 +33,10 @@ A list of what tools and technologies I use:
 ### ⚙️ Backend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
 </p>
 
 ### 🗃️ Datastores
@@ -69,12 +69,12 @@ A list of what tools and technologies I use:
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MadalinAdv&show_icons=true&theme=radical" alt="Madalin's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadalinAdv&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-<p align="center">✨ Let's build something amazing together! ✨</p>
+## ✨ Let's Collaborate!
+<p align="center">
+  I'm always open to exciting new projects and collaborations. Let's build something amazing together! 🚀
+</p>
