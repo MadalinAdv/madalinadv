@@ -14,7 +14,7 @@
 - 🌱 Currently exploring advanced concepts in Next.js and Laravel.
 - 💬 Ask me about web development, system architecture, or optimization tips.
 - 🌐 Portfolio: [madalindvp.ro](https://madalindvp.ro)
-- 📫 How to reach me: [madalindvp@example.com](mailto:madalindvp@example.com)
+- 📫 How to reach me: [madalindvp@gmail.com](mailto:madalindvp@gmail.com)
 
 ---
 
@@ -34,8 +34,7 @@ A list of what tools and technologies I use:
 ### ⚙️ Backend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
 </p>
